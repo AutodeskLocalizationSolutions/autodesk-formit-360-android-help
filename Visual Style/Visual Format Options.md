@@ -1,12 +1,14 @@
-# Visual Format Options
 
-----
 
-Description of choices for visual style.
+# 表示形式のオプション
 
-### Visual Style Options
+---
+
+表示スタイルの選択肢について説明しています。
+
+### [表示スタイル]オプション
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-24632A75-8D3B-48A7-8D72-3D2A4E8454FA-low.png)   |   <br>You can access the Settings menu by tapping on the gear icon from the toolbar. You have several modifiable options:<br><br>* Space usage graph: Toggle on/off the statistics display just below drawing name<br>* Units: Specify the sketch's units, Imperial or Metric<br>* Display Sketchy Lines: Toggle to turn sketchy lines on and off.<br>* Show Hidden Lines: Change the appearance of your sketch by toggling features like sketchy lines, hidden lines, or extended lines<br>* Extend Lines: Toggle to see extended lines.<br>* Show Level: See levels<br>* Display Grid: Toggle to turn grid view on and off.<br>* Level Heights: See the heights of levels.<br>  |
+|![](Images/GUID-24632A75-8D3B-48A7-8D72-3D2A4E8454FA-low.png)|[設定]メニューにアクセスするには、ツールバーの歯車アイコンをタップします。次のようないくつかのオプションを変更できます。* 使用量グラフ: 図面名のすぐ下に統計情報を表示するかどうかを切り替えます。* 単位: スケッチの単位(インチ/フィートまたはメートル)を指定します。* 手書き風の線を表示: 手書き風の線の表示/非表示を切り替えます。* 隠線を表示: 手書き風の線、隠線、延長線などの表示を切り替えて、スケッチの外観を変更します。* 延長線: 延長線の表示/非表示を切り替えます。* レベルを表示: レベルを表示します。* グリッドを表示: グリッドの表示/非表示を切り替えます。* レベルの高さ: レベルの高さを表示します。|
 

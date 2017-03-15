@@ -1,33 +1,32 @@
-# Using Materials
 
-----
 
-Enrich and enhance designs using Materials to add detail.
- 
+# マテリアルを使用する
 
-The Material Editor is located in the right-side palette. In the Editor, you can create new materials and add them to your Material Library. To add color to a material, you can use the color picker to accurately set the tint for the material or select a predefined color swatch.
+---
 
-* Materials allow you to add detail to your sketch. You can apply materials to faces or entire objects using the Material Editor found in the right-side palette. 
-    
-    ![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
+マテリアルを使用して詳細を追加することにより、内容が充実した高度な設計を作成できます。
 
-The widgets provided by the Materials Editor allow you to:
+マテリアル エディタは右側のパレットにあります。エディタで新しいマテリアルを作成し、[マテリアル ライブラリ]に追加できます。マテリアルにカラーを追加するには、カラー ピッカーを使用してマテリアルの着色を正確に設定するか、設定済みの色見本を選択します。
 
-* Activate the paintbrush tool
-* Edit the color or the bitmap image of a material
-* Copy or delete a material
+* マテリアルを使用すると、スケッチに詳細を追加できます。面またはオブジェクト全体にマテリアルを適用するには、右側のパレットにあるマテリアル エディタを使用します。
 
-When applied to the sketch, materials will be added to a list of already used materials for easy access. A material can have a texture (bitmap) and/or color. When a material has both texture and color, the two are multiplied together.
+![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
 
-* Use the Material Editor to modify or create materials. 
-    
-    ![](Images/GUID-13B3AF0B-952F-49DF-B486-86A2035A55CB-low.png)
+マテリアル エディタにあるウィジェットでは、次の操作を行うことができます。
 
-  
+* ペイントブラシ ツールをアクティブにする
+* マテリアルの色またはビットマップ イメージを編集する
+* マテリアルをコピーまたは削除する
 
-#### Topics in this section
+マテリアルをスケッチに適用すると、既に使用されているマテリアルのリストに追加されるため、簡単にアクセスできるようになります。マテリアルにはテクスチャ(ビットマップ)やカラーを設定できます。マテリアルにテクスチャとカラーの両方を設定すると、それらが掛け合わせられます。
 
-* [Create, Edit, and Apply a Material](../Create, Edit, and Apply a Material.md)
-    
-    Use the Material Editor to place a material on an object or a selected object face.
+* マテリアル エディタを使用して、マテリアルを修正または作成します。
+
+![](Images/GUID-13B3AF0B-952F-49DF-B486-86A2035A55CB-low.png)
+
+#### このセクションの内容
+
+* [マテリアルを作成、編集、および適用する](../Create, Edit, and Apply a Material.md)
+
+マテリアル エディタを使用して、オブジェクトまたは選択したオブジェクト面にマテリアルを配置します。
 

@@ -1,25 +1,26 @@
-# Location
 
-----
 
-Define a geographic location to make use of building performance and climate data with your designs.
- 
+# 位置
 
-To maximize the functionality of your designs, you should define the geographic location of your sketch using the Location feature. Setting the location is important when you want to use Building Performance data while designing. See Building Performance for more details.
+---
+
+地理的位置を設定し、建物パフォーマンスと気象データを設計に利用します。
+
+設計の機能を最大化するには、位置機能を使用してスケッチの地理的位置を設定する必要があります。設計中に建物パフォーマンス データを使用する場合、位置を設定することは重要です。詳細については、「建物パフォーマンス」を参照してください。
 
 ![](Images/GUID-CCE8DC36-2419-43E1-9FDB-90D48F517EA3-low.png)
 
-  
+#### このセクションの内容
 
-#### Topics in this section
+* [位置を設定する](../Set a Location.md)
 
-* [Set a Location](../Set a Location.md)
-    
-    Establish a geographic location for your sketch.
-* [Satellite Image Import](../Satellite Image Import.md)
-    
-    Add detail and realism to your design.
-* [Edit, Reload, or Remove a Satellite Image](../Edit, Reload, or Remove a Satellite Image.md)
-    
-    Make changes to your location images.
+スケッチの地理的位置を確定します。
+
+* [衛星画像を読み込む](../Satellite Image Import.md)
+
+詳細を追加して設計に現実感を加えます。
+
+* [衛星画像を編集、再ロード、または削除する](../Edit, Reload, or Remove a Satellite Image.md)
+
+位置のイメージを変更します。
 

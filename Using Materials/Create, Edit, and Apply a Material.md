@@ -1,34 +1,36 @@
-# Create, Edit, and Apply a Material
 
-----
 
-Use the Material Editor to place a material on an object or a selected object face.
+# マテリアルを作成、編集、および適用する
 
-Materials can be applied to faces or entire objects.
+---
 
-## Apply a Material
+マテリアル エディタを使用して、オブジェクトまたは選択したオブジェクト面にマテリアルを配置します。
 
-1. To apply a material, first select a face or object.
-2. Click the tab on the right side of the screen and click the icon for the Material Editor.
-3. Choose a material from the displayed selection, or create your own. 
-    
-    ![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
+マテリアルは面またはオブジェクト全体に適用できます。
 
-## Edit a Material
+## マテリアルを適用する
 
-1. Select a material.
-2. Choose the Edit icon.
-3. Replace the bitmap or alter the color scheme for the material.
+1. マテリアルを適用するには、最初に面またはオブジェクトを選択します。
+2. 画面の右側にあるタブをクリックし、マテリアル エディタのアイコンをクリックします。
+3. 表示される選択項目からマテリアルを選択するか、独自のマテリアルを作成します。
 
-Tablets let you choose between swatches and a color wheel.
+![](Images/GUID-87E0DFA7-1969-4E38-BB50-EF16CF166C8D-low.png)
 
-1. Select Done.
+## マテリアルを編集する
 
-### Create a Material
+1. マテリアルを選択します。
+2. [編集]アイコンを選択します。
+3. ビットマップを置き換えるか、マテリアルのカラー スキームを変更します。
 
-1. Select the "+" (plus icon or +Create button).
-2. Choose a bitmap to use for the material.
+タブレットで見本を選択したり、カラーホイールからカラーを選択することができます。
 
-Load an image from a file, or even take a photo with a tablet.
+1. [完了]を選択します。
+### マテリアルを作成する
 
-1. Choose a color for the material.
+1. [+] (プラス アイコンまたは[+作成]ボタン)を選択します。
+2. マテリアルに使用するビットマップを選択します。
+
+ファイルからイメージをロードするか、タブレットで写真を撮影します。
+
+1. マテリアルのカラーを設定します。
+

@@ -1,12 +1,14 @@
-# Project Information Reference
 
-----
 
-Name your design and keep track of its status.
- 
+# プロジェクト情報の参照
 
-## Project Information Area
+---
 
-* Use the FormIt 360 logo in the upper left corner to open a sketch. 
-    
-    ![](Images/GUID-188EDA8A-D473-43F7-B2ED-39735FEC2F8F-low.png)
+設計に名前を付けてステータスを追跡します。
+
+## プロジェクト情報領域
+
+* スケッチを開くには、左上隅にある FormIt 360 のロゴを使用します。
+
+![](Images/GUID-188EDA8A-D473-43F7-B2ED-39735FEC2F8F-low.png)
+

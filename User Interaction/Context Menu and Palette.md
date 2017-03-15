@@ -1,19 +1,22 @@
-# Context Menu and Palette
 
-----
 
-Locate the tools to create and place designs.
- 
+# コンテキスト メニューとパレット
 
-## Contextual Menu
+---
 
-* Press and hold over an object to bring up the context menu. 
-    
-    ![](Images/GUID-888202E0-EC86-478D-9342-FAF00A490F05-low.png)
-* The menu of tools will change according to the face, edge, or other object you have chosen. 
-    
-    ![](Images/GUID-A4F2D67E-EE7E-45B1-8747-C19531A77407-low.png)
+設計を作成して配置するためのツールを見つけます。
 
-### Object/Materials Palette
+## コンテキスト メニュー
 
-* The palette on the right side of the screen accesses the Building Program, Properties, and Materials tabs.![](Images/GUID-57AB508D-FA7D-4203-8635-076D93CF1866-low.png)
+* コンテキスト メニューを表示するには、オブジェクトを長押しします。
+
+![](Images/GUID-888202E0-EC86-478D-9342-FAF00A490F05-low.png)
+
+* ツールのメニューは、面、エッジ、または選択したその他のオブジェクトに応じて変わります。
+
+![](Images/GUID-A4F2D67E-EE7E-45B1-8747-C19531A77407-low.png)
+
+### オブジェクト/マテリアル パレット
+
+* 画面の右側のパレットには、[建物プログラム]、[プロパティ]、および[マテリアル]の 3 つのタブがあります。![](Images/GUID-57AB508D-FA7D-4203-8635-076D93CF1866-low.png)
+

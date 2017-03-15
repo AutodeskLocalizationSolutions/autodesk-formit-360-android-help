@@ -1,20 +1,20 @@
-# Manage Your Data
 
-----
 
-Use multiple data formats to preserve and share your designs.
- 
+# データを管理する
 
-Share and save your data in many formats.
+---
 
-  
+さまざまなデータ形式を使用して設計を保持、共有します。
 
-#### Topics in this section
+データはさまざまな形式で共有、保存できます。
 
-* [ Saving Your Work](../Saving Your Work.md)
-    
-    Preserve your designs in multiple formats.
-* [Revit Files](../Revit Files.md)
-    
-    Save your design in a format that Revit can open and use.
+#### このセクションの内容
+
+* [ 作業内容を保存する](../Saving Your Work.md)
+
+さまざまな形式で設計を保存します。
+
+* [Revit ファイル](../Revit Files.md)
+
+Revit で開いて使用できる形式で設計を保存します。
 

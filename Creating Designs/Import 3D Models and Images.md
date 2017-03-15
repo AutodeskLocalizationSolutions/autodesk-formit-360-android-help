@@ -1,23 +1,24 @@
-# Import 3D Models and Images
 
-----
 
-Add overlays and images to your designs for a variety of purposes.
- 
+# 3D モデルとイメージを読み込む
 
-Images or existing 3D models add additional information to your sketch.
+---
+
+さまざまな目的に応じてオーバーレイやイメージを設計に追加します。
+
+イメージや既存の 3D モデルを追加すると、スケッチの情報を充実させることができます。
 
 ![](Images/GUID-EA6708FB-DA98-442A-97D6-A652420C353F-low.png)
 
-1. Select an image or 3D model from your local or A360 storage area.
+1. ローカルまたは A360 の記憶領域からイメージまたは 3D モデルを選択します。
 
 ![](Images/GUID-83D4E108-75F9-4E3D-9745-564E89F619EF-low.png)
 
-You will have the option to scale and crop your image. Your image will then be imported into the canvas.
+イメージは拡大/縮小およびトリミングできます。その後、イメージをキャンバスに読み込みます。
 
-1. Use the palette on the right-side of the screen to modify image properties.
+1. 画面の右側にあるパレットを使用して、イメージのプロパティを修正します。
 
-Edit the image's name and transparency, if needed. Manage the vertical ordering of various ground overlays including any satellite image.
+必要に応じて、イメージの名前と透過度を編集します。衛星画像を含め、さまざまな地面オーバーレイの縦方向の表示を管理します。
 
-* You can import geometry from your local file system using OBJ or AXM formats. Just tap on the import icon from the toolbar and choose Import 3D Model.
-NoteYou can also drag and drop an OBJ or AXM file from your system onto your canvas.
+* OBJ または AXM 形式を使用して、ローカル ファイル システムからジオメトリを読み込むことができます。単にツールバーの[読み込み]アイコンをタップし、[3D モデルの読み込み]を選択します。注: システムからキャンバスへ OBJ または AXM ファイルをドラッグ アンド ドロップすることもできます。
+

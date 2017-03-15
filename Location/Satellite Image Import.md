@@ -1,29 +1,31 @@
-# Satellite Image Import
 
-----
 
-Add detail and realism to your design.
- 
+# 衛星画像を読み込む
 
-Satellite images and weather station data add important information to your designs.
+---
 
-#### Import Satellite Image
+詳細を追加して設計に現実感を加えます。
 
-1. Tap the Set Location icon.
-2. Use the search box below the Location symbol in the upper left to type in a specific location, or use the map view to pan and zoom to set a location.
-3. Long press to place the red pin after you have found your location.
+衛星画像や気象ステーションのデータは設計に重要な情報を追加します。
 
-(See Weather Stations below to see climate data about your location.)
+#### 衛星画像を読み込む
 
-1. Tap Import Satellite Image to add the aerial photo to your sketch.
-2. Use the dialog that appears to size the satellite image to show the relevant context for your sketch.
-3. Tap Finish Importing.
+1. [位置を設定]アイコンをタップします。
+2. 左上の[位置]記号の下にある検索ボックスに特定の場所を入力するか、マップ ビューを画面移動またはズームして位置を設定します。
+3. 目的の位置が見つかったら、長押しして赤いピンを配置します。
 
-#### Weather Stations
+(その位置の気象データを確認するには、下に表示されている気象ステーションを参照してください。)
 
-1. Tap a Weather Station icon near your selected location.
+1. [衛星画像を読み込む]をタップして、航空写真をスケッチに追加します。
+2. 表示されるダイアログを使用して衛星画像のサイズを調整し、スケッチに関連するコンテキストを表示します。
+3. [読み込みを終了]をタップします。
+#### 気象ステーション
 
-1. Use the displayed graphs of historical information about the temperature and wind direction for that location to help you make informed decisions about building orientation and massing given your project's unique climate.
-2. Tap the X in the upper right corner to dismiss the weather station display.
+1. 選択した位置に近い[気象ステーション]アイコンをタップします。
+
+2. その位置の温度と風の方向をグラフ形式で示した履歴情報が表示されます。この情報は、建物の方向に関する意思決定を通知したり、そのプロジェクト特有の気候を集計するのに役立ちます。
+
+3. 右上隅にある[X]をタップして、表示されている気象ステーションを閉じます。
 
 ![](Images/GUID-60F40397-82ED-4763-99D9-5CD765F57A01-low.png)
+

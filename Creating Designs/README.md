@@ -1,44 +1,46 @@
-# Creating Designs
 
-----
 
-Sketch or place geometric shapes onto grid backgrounds, satellite images, or overlays.
- 
-* Create conceptual models using 2D and 3D geometry creation tools. Start off by sketching 2D shapes or placing 3D primitives. Then, you can modify your designs by pushing and pulling faces, and by using various transform tools and Boolean operations. 
-    
-    ![](Images/GUID-9ECE5E21-CE80-4E59-906B-227B82516420-low.png)
+# 設計を作成する
 
-There are two main ways to create geometry: Sketching shapes, and placing primitives. You can also import geometry.
+---
 
-There are 5 types of tools that you can sketch with: Lines, Arcs, Splines, Rectangles, and Circles.
+グリッドのバックグラウンド、衛星画像、またはオーバーレイにジオメトリ形状をスケッチまたは配置します。
 
-#### Sketching Shapes
+* 2D および 3D ジオメトリ作成ツールを使用して、コンセプト モデルを作成します。最初に 2D 形状をスケッチするか、3D プリミティブを配置します。次に、面をプッシュまたはプルしたり、さまざまな変換ツールやブール演算を使用して、設計を修正します。
 
-* Creation tools are located in the action bar.![](Images/GUID-2169442F-2209-4360-9D74-5A45A0260914-low.png) You create shapes by clicking on a tool from the Sketch tool set. Then, click in the view to define the shape.![](Images/GUID-A3EAB6DF-C3B7-4427-96C2-6D8844A568E1-low.png)
+![](Images/GUID-9ECE5E21-CE80-4E59-906B-227B82516420-low.png)
 
-There are 5 types of 3D primitives that you can place: Cubes, Domes, Cylinders, Prisms, and Pyramids.
+ジオメトリを作成する方法には、形状をスケッチする方法とプリミティブを配置する方法の 2 通りがあります。ジオメトリは、読み込むこともできます。
+
+スケッチに使用できるツールには線分、円弧、スプライン、長方形、円の 5 種類があります。
+
+#### 形状をスケッチする
+
+* 作成ツールはアクション バーにあります。![](Images/GUID-2169442F-2209-4360-9D74-5A45A0260914-low.png) [スケッチ]ツール セットでツールをクリックし、形状を作成します。 次に、ビュー内をクリックして形状を定義します。![](Images/GUID-A3EAB6DF-C3B7-4427-96C2-6D8844A568E1-low.png)
+
+配置できる 3D プリミティブには立方体、ドーム、円柱、プリズム、角錐の 5 種類があります。
 
 ![](Images/GUID-D7198AD2-9AC0-49EE-B6D7-3A467D0DCF68-low.png)
 
-#### Placing Primitives
+#### プリミティブを配置する
 
-* You can place primitives by clicking on a tool from the Geometry Creation toolbar. Then, click in the canvas to place the geometry. 
-    
-    ![](Images/GUID-9E290793-7F4C-441F-9C70-C6D928173D08-low.png)
+* プリミティブを配置するには、[ジオメトリ作成]ツールバーのツールをクリックします。次に、キャンバス内をクリックしてジオメトリを配置します。
 
-To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include: Select, Delete, Move, Scale, Rotate, Extrude, Cut Face, Offset Face, Tilt, Copy/Paste, Array, and Boolean (Union and Subtract). Use the topics in the following list to learn more about these operations.
+![](Images/GUID-9E290793-7F4C-441F-9C70-C6D928173D08-low.png)
 
-  
+形状をスケッチするか、プリミティブを配置した後、より複雑な設計を作成するには、いくつかのコンテキスト ツールを使用してジオメトリを修正します。選択、削除、移動、スケール、回転、押し出し、面の切り取り、面のオフセット、傾斜、コピー/貼り付け、配列、ブール演算(論理和、論理差)などの操作を行います。これらの操作の詳細については、次のリストのトピックを参照してください。
 
-#### Topics in this section
+#### このセクションの内容
 
-* [Import 3D Models and Images ](../Import 3D Models and Images.md)
-    
-    Add overlays and images to your designs for a variety of purposes.
-* [Sketching Shapes](../Sketching Shapes.md)
-    
-    Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
-* [Place Primitives](../Place Primitives.md)
-    
-    Use pre-defined shapes as design building blocks.
+* [3D モデルとイメージを読み込む ](../Import 3D Models and Images.md)
+
+さまざまな目的に応じてオーバーレイやイメージを設計に追加します。
+
+* [形状をスケッチする](../Sketching Shapes.md)
+
+線分、円弧、スプライン、長方形、円を使用して、建物設計に組み入れる形状を作成します。
+
+* [プリミティブを配置する](../Place Primitives.md)
+
+事前設定済みの形状を設計建物ブロックとして使用します。
 

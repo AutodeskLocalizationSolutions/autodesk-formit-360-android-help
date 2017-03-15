@@ -1,29 +1,29 @@
-# Building Performance
 
-----
 
-Start a BIM workflow by evaluating the performance of elements from the beginning of the design process.
+# 建物パフォーマンス
 
-### Building Performance
+---
+
+BIM ワークフローでは、最初に、設計プロセスの初期段階から各種要素のパフォーマンスを評価します。
+
+### 建物パフォーマンス
 
 | | |
 | ---- | ---- |
-| The Building Program screen provides an indication of Building Type and Site Area.   |   ![](Images/GUID-26E00518-4DA2-4C47-85CE-1589B6B1BF58-low.png)   |
+|建物プログラムの画面には、建物タイプと外構領域が示されます。|![](Images/GUID-26E00518-4DA2-4C47-85CE-1589B6B1BF58-low.png)|
 
+#### 参照
 
-#### See Also
+* [オブジェクトのプロパティを調べる ](../../Modify Designs/Examine Object Properties.md)
+* [レベルと容積](../../Levels and Space Usage.md)
 
-* [Examine Object Properties ](../../Modify Designs/Examine Object Properties.md)
-* [Levels and Volume ](../../Levels and Space Usage.md)
+#### このセクションの内容
 
-  
+* [太陽と影の設定 ](../Sun and Shadow Settings.md)
 
-#### Topics in this section
+日付と時刻を設定することにより、現在位置における影の角度をコントロールします。
 
-* [ Sun and Shadow Settings ](../Sun and Shadow Settings.md)
-    
-    Control the angle of the shadows at your locations by setting date and time.
-* [Solar Analysis](../Solar Analysis.md)
-    
-    Visualize the amount of solar radiation that your model receives.
+* [日照解析](../Solar Analysis.md)
+
+モデルの日照量を視覚化します。
 
